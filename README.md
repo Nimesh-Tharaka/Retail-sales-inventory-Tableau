@@ -43,7 +43,7 @@ See the validation checklist for outstanding corrections.
 
 ### Sales Overview
 
-![Sales Overview](screenshots/sales-overview.png)
+<img width="1500" height="1100" alt="Sales Overview (2)" src="https://github.com/user-attachments/assets/94077db3-8bf6-49f5-8423-8566dc43bf68" />
 
 The sales dashboard contains:
 
@@ -57,7 +57,7 @@ The sales dashboard contains:
 
 ### Inventory Overview
 
-![Inventory Overview](screenshots/inventory-overview.png)
+<img width="1450" height="1000" alt="inventory Report (2)" src="https://github.com/user-attachments/assets/9f138acb-d0b8-4da4-8dff-407c578bde96" />
 
 The inventory dashboard is designed to contain:
 
